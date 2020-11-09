@@ -13,6 +13,8 @@
  !limitations under the License.                                          ！
  !------------------------------------------------------------------------->
 
+**This repo has changes from https://github.com/TimothyGu/alac/pulls/5, which was enough to make it build/install on Debian Buster**
+
 ALAC
 ====
 
